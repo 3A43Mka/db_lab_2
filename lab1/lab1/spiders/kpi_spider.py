@@ -26,8 +26,8 @@ class KPISpider(Spider):
 
     def parse_page(self, response):
         selector = Selector(response=response)
-        text_data = selector \
-            .xpath('//h1[contains(@class, \'page-title\')]/span/text() | //div[contains(@class, \'node__content\')]/div/p').getall()
+        text_data = selector.xpath('//h1[contains(@class, \'page-title\')]/span/text() | //div[contains(@class, '
+                                   '\'node__content\')]/div/p').getall()
         images = selector.xpath('//img/@src').getall()
         return {
             'url': response.url,

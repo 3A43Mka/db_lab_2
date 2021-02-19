@@ -6,7 +6,7 @@ from urllib.parse import urljoin
 
 class RepkaSpider(Spider):
     name = 'repka'
-    start_urls = ['https://repka.ua/products/noutbuki/?brands=73&p=2,']
+    start_urls = ['https://repka.ua/products/noutbuki/?brands=73,']
     max_pages = 20
     filename = 'output/repka.xml'
 
