@@ -62,6 +62,54 @@
     <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
   </page>
+  <page url="https://kpi.ua/kpi_faculty">
+    <fragment type="text">Інститути та факультети</fragment>
+    <fragment type="text">&lt;p&gt;В університеті працюють 16 факультетів, 11 навчально-наукових інститутів, декілька науково-дослідних інститутів і наукових центрів. Здійснюється підготовка бакалаврів, спеціалістів та магістрів, кандидатів і докторів наук. Університет має власне видавництво "Політехніка". Серед викладачів КПІ ім.Ігоря Сікорського – майже 500 професорів, понад 1300 доцентів. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;&lt;strong&gt;&lt;a href="/department"&gt;Наукові підрозділи&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</fragment>
+    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/kpi_0.png?itok=f8GvIBI5</fragment>
+    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
+  </page>
+  <page url="https://kpi.ua/about">
+    <fragment type="text">&lt;p&gt;Національний технічний університет України «Київський політехнічний інститут імені Ігоря Сікорського» сьогодні - найбільший навчально-науковий центр України, в якому поєднано навчальний, науковий та інноваційний потенціали, широко впроваджуються наукові розробки. КПІ - визнаний в Україні і за її межами дослідницький університет, полігон відпрацювання новітніх форм організації навчального та наукового процесу.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Національний технічний університет України «Київський політехнічний інститут імені Ігоря Сікорського» заснований у 1898 році як Київський політехнічний інститут імператора Олександра II і є національним самоврядним державним вищим навчальним закладом дослідницького типу. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;В університеті працюють 16 факультетів, 11 навчально-наукових інститутів, декілька науково-дослідних інститутів і наукових центрів. Здійснюється підготовка бакалаврів, спеціалістів та магістрів, кандидатів і докторів наук. Університет має власне видавництво "Політехніка". Серед викладачів КПІ ім.Ігоря Сікорського – майже 500 професорів, понад 1300 доцентів. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Ідея створення технічного навчального закладу виникла у цукрозаводчиків південно-західного краю. 18 лютого 1880 року при активній підтримці голови київського біржового комітету Н. Хрякова було вирішено відкрити підписку для збору пожертвувань. Накопичені гроші, гарантовані внески меценатів міста та підтримка зі сторони міністра юстиції І.Вітте дозволили 25 листопада 1896 року на приватній нараді в будинку Л.І. Бродського прийняти рішення про заснування в Києві Політехнічного інституту.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Кампус КПІ ім.Ігоря Сікорського займає територію близько 120 гектарів, на якій органічно поєднані умови для навчання, занять спортом, підвищення рівня культурного, наукового та інтелектуального розвитку, відпочинку та занять особистими захопленнями всього 50-тисячного колективу. Поштова адреса університету: &lt;strong&gt;Україна, 03056, м. Київ, Солом’янський район, пр-т Перемоги, 37&lt;/strong&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Професійна спілка (профспілка) - добровільна неприбуткова громадська організація, що об'єднує громадян, пов'язаних спільними інтересами за родом їх професійної (трудової) діяльності (навчання). Первинна організація профспілки - добровільне об'єднання членів профспілки, які, як правило, працюють на одному підприємстві, в установі, організації незалежно від форми власності і виду господарювання або у фізичної особи, яка використовує найману працю, або забезпечують себе роботою самостійно, або навчаються в одному навчальному закладі.&lt;/p&gt;</fragment>
+    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/images-page/zgurovskyi.jpg?itok=biPOTynM</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/accreditation.jpg?itok=vwwCXf3W</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/kpi_0.png?itok=pmOI1atG</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/h-02.original_0.jpg?itok=NAptVWW1</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/web_icd.png?itok=xx7Wmwxq</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/campus.jpg?itok=ib5UX6D_</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/936-13_2.jpg?itok=qUqzG8MM</fragment>
+    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
+  </page>
+  <page url="https://kpi.ua/information">
+    <fragment type="text">Інформація, яка підлягає обов'язковому оприлюдненню</fragment>
+    <fragment type="text">&lt;p&gt;&lt;a href="http://osvita.kpi.ua/docs" alt="Документи з організації освітнього процесу для НАЗЯВО" title="Документи з організації освітнього процесу для НАЗЯВО"&gt;Документи з організації освітнього процесу&lt;/a&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Інформація, яка підлягає обов'язковому оприлюдненню на офіційних веб-сайтах вищих навчальних закладів відповідно до вимог Закону України "Про вищу освіту" (Закон N 1556-VII) та  &lt;a href="http://zakon2.rada.gov.ua/laws/show/2145-19"&gt;Закону України "Про освіту"&lt;/a&gt; (Закон N 2145-19):&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Інші матеріали &lt;/p&gt;</fragment>
+    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
+    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
+  </page>
   <page url="https://kpi.ua/athletics">
     <fragment type="text">Спорт. Відпочинок. Харчування. Оздоровлення</fragment>
     <fragment type="text">&lt;p&gt;Спорткомплекс КПІ ім.Ігоря Сікорського (ЦФВС - центр фізичного виховання та спорту) – це місце, де студенти проводять щонайменше перші два курси навчання в КПІ, оскільки вони відвідують пари фізичного виховання. Однією з переваг спорткомплексу є різноманітність вибору секцій, що неабияк подобається та приваблює студентів. Кожен обирає саме той вид спорту, що найбільше подобається.&lt;/p&gt;</fragment>
@@ -82,16 +130,17 @@
     <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
   </page>
-  <page url="https://kpi.ua/web_sss">
-    <fragment type="text">Соціально-психологічна підтримка</fragment>
-    <fragment type="text">&lt;p&gt;Місія відділу соціально-психологічної роботи – Студентської соціальної служби – це допомога студентському загалу в розвитку та підтримці власного потенціалу (розкриттю якого, власне, надто сприяє волонтерська діяльність). Метою діяльності Студентської соціальної служби є соціальний розвиток студентства, психологічна допомога, сприяння активній соціальній позиції молоді. Роботу ВСПР – ССС спрямовано  на організацію та проведення соціально-профілактичних, психологічних,  благодійних, соціальних, спортивно-оздоровчих та культурно-просвітницьких  заходів та реалізацію соціальних проєктів, націлених на формування здорового  способу життя та психологічної рівноваги і здоров’я в студентської молоді,  залучення студентства до соціального служіння на засадах волонтерської роботи  та розвитку в молоді soft skills (надпрофесійних навичок).&lt;/p&gt;</fragment>
+  <page url="https://kpi.ua/health">
+    <fragment type="text">Медичне обслуговування студентів КПІ</fragment>
+    <fragment type="text">&lt;p&gt;&lt;strong&gt;Що відбувається зараз?&lt;/strong&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Основні напрями роботи:&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;&lt;strong&gt;Де студенти КПІ можуть отримати медичну допомогу зараз?&lt;/strong&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;&lt;strong&gt;Звертаємо увагу! Невідкладну допомогу в КМСП надають усім студентам – незалежно від того, підписані в них декларації з лікарями чи ні.&lt;/strong&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;&lt;strong&gt;Як підписати декларацію?&lt;/strong&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;&lt;strong&gt;Якщо під час карантину Ви не маєте підписаної декларації з сімейним лікарем і занедужали!&lt;/strong&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Поставити питання головному лікарю напряму можна &lt;a href="https://www.facebook.com/%D0%9A%D0%B8%D0%B5%D0%B2%D1%81%D0%BA%D0%B0%D1%8F-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BB%D0%B8%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0-106131934381334" target="_blank"&gt;тут&lt;/a&gt;.&lt;/p&gt;</fragment>
     <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/medium/public/images-page/sss_0.png?itok=x97iGC95</fragment>
-    <fragment type="image">https://kpi.ua/images/te.png </fragment>
-    <fragment type="image">https://kpi.ua/images/fb.png </fragment>
-    <fragment type="image">https://kpi.ua/images/ig.png </fragment>
-    <fragment type="image">https://kpi.ua/images/youtube.png </fragment>
-    <fragment type="image">https://kpi.ua/images/te.png </fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/n2200.png?itok=M2E3Or4S</fragment>
     <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
@@ -113,38 +162,23 @@
     <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
   </page>
-  <page url="https://kpi.ua/vnvr">
-    <fragment type="text">Навчання</fragment>
-    <fragment type="text">&lt;p&gt;Навчання є однією з найважливіших  складових студентського життя та закладає підгрунтя для побудови успішної  кар'єри, формування у студентів розуміння свого місця в житті і можливостей для  професійного та особистісного розвитку.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Основні засади організації навчання,  проведення контрольних заходів, процедурні питання щодо формування  індивідуальної освітньої траєкторії, переведення студентів до інших закладів  вищої освіти або до КПІ ім. Ігоря Сікорського, відрахування, поновлення,  надання академічних відпусток висвітлені в Законах України &lt;a href="https://zakon.rada.gov.ua/laws/show/1556-18#Text" target="_blank"&gt;«Про вищу освіту»&lt;/a&gt; та &lt;a href="https://zakon.rada.gov.ua/laws/show/2145-19#Text" target="_blank"&gt;«Про освіту»&lt;/a&gt;, нормативних актах Міністерства  освіти та науки України, &lt;a href="https://osvita.kpi.ua/docs"&gt;нормативних актах та положеннях КПІ ім. Ігоря Сікорського&lt;/a&gt;.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Розібратися в нормативній базі,  підказати, допомогти, порадити і відповісти на питання студентів щодо  навчального процесу – саме така задача &lt;a href="https://dnvr.kpi.ua/about/#abit_nav"&gt;відділу навчально-виховної роботи&lt;/a&gt; Департаменту навчально-виховної  роботи (далі – ДНВР).&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Після успішного вступу до  університету студент потрапляє у навчальний вир і чує безліч нових понять –  рейтингова система оцінювання, поточний контроль, календарний контроль,  семестровий контроль, Електронний кампус, відрахування, поновлення, тощо.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Для зручності пошуку пояснень  основних моментів організації навчання та освітнього процесу в цілому і  відповідей на найактуальніші питання студентів ДНВР створив ряд статей &lt;a href="https://telegra.ph/VNVR-07-08" target="_blank"&gt;&lt;img src="/images/te.png"&gt;&lt;/a&gt;, які в простій формі пояснюють серйозні речі.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Керівник відділу навчально-виховної роботи – Тетяна ХИЖНЯК&lt;/p&gt;</fragment>
+  <page url="https://kpi.ua/kpi_about">
+    <fragment type="text">Лідер технічної освіти України</fragment>
+    <fragment type="text">&lt;p&gt;Київський політехнічний інститут (з 2016 року – Національний технічний університет України «Київський політехнічний інститут імені Ігоря Сікорського» - КПІ ім. Ігоря Сікорського) засновано 1898 року. За роки існування він підготував майже 370 тисяч фахівців, з них понад 60 тисяч – у роки незалежності України. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;КПІ входить до 4% кращих університетів світу за версією міжнародних рейтингів QS і Webometrics.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Щорічно обіймає найвищі позиції у рейтингах вищих навчальних закладів України "Компас" та "ТОП-200 Україна". &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Найпопулярніший у мережі Інтернет вищий навчальний заклад України останніх років за версією корпорації Google.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;КПІ ім. Ігоря Сікорського є одним з найбільших навчальних закладів Європи. У ньому навчається майже 25 тисяч студентів, аспірантів і докторантів, у тому числі й студенти-іноземці з країн близького та далекого зарубіжжя. Кожний шостий студент м. Києва здобуває освіту в КПІ, кожен двадцять п'ятий професор і доцент України – викладач КПІ, у технічних ВНЗ країни кожний п'ятий факультет і кафедра – це факультет або кафедра КПІ.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;В університеті працюють &lt;a href="/faculties"&gt;16 факультетів&lt;/a&gt;, &lt;a href="/institutes"&gt;11 навчально-наукових інститутів&lt;/a&gt;, &lt;a href="/science/science-department"&gt;декілька науково-дослідних інститутів і наукових центрів&lt;/a&gt;. Здійснюється підготовка бакалаврів, спеціалістів та магістрів, кандидатів і докторів наук. Університет має власне видавництво "Політехніка". Серед викладачів КПІ – більше 500 професорів і понад 1300 доцентів.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt; Аудиторії та лабораторії оснащені сучасним обладнанням, упроваджуються новітні технології навчання з використанням комп'ютерних мереж. Усе це дозволяє забезпечити якість освіти, рівень якої відповідає стандартам кращих закордонних університетів.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Будівлі інститутів і факультетів КПІ ім. Ігоря Сікорського та університетські гуртожитки розкинулися на площі близько 120 гектарів. Це справжнє місто в місті. Університет має власний &lt;a href="/culture"&gt;Центр культури та мистецтв&lt;/a&gt;, &lt;a href="/recreation"&gt;сучасний спортивний комплекс&lt;/a&gt;, поліклініку, &lt;a href="/resort"&gt;чотири спортивно-оздоровчі бази&lt;/a&gt; на Дніпрі, Чорному морі та в Карпатах. Його науково-технічна бібліотека – одна з кращих у країні.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;КПІ ім. Ігоря Сікорського є базовою організацією Державної інформаційної мережі вищих навчальних закладів і інститутів Національної академії наук &lt;a href="/uran"&gt;URAN&lt;/a&gt;, яка приєднана до Європейської освітньої мережі GEANT. Університет став також ініціатором створення в Україні "&lt;a href="/wdc"&gt;Центру суперкомп'ютерних обчислень і даних&lt;/a&gt;".&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Наукові розробки КПІ ім. Ігоря Сікорського щорічно відзначаються Державними преміями України в галузі науки і техніки. Провідну роль в організації комерціалізації результатів наукових досліджень і технічних розробок університету відіграє &lt;a href="/s-park"&gt;Науковий парк "Київська політехніка"&lt;/a&gt;.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;КПІ ім. Ігоря Сікорського співпрацює з технічними університетами десятків країн світу, багатьма міжнародними організаціями (&lt;a href="/unesco"&gt;UNESСO&lt;/a&gt;, &lt;a href="/unido"&gt;UNIDO&lt;/a&gt;, &lt;a href="/wipo"&gt;WIPO&lt;/a&gt;, &lt;a href="/nato"&gt;NATO&lt;/a&gt;, EDNES, ICSU, &lt;a href="/codata"&gt;CODATA&lt;/a&gt; та ін.) та найвідомішими корпораціями й фірмами (&lt;a href="/motorola"&gt;MOTOROLA&lt;/a&gt;, &lt;a href="/siemens"&gt;SIEMENS&lt;/a&gt;, &lt;a href="/festo"&gt;FESTO&lt;/a&gt;, &lt;a href="/samsung"&gt;SAMSUNG&lt;/a&gt;, &lt;a href="/intel"&gt;INTEL&lt;/a&gt; тощо), бере участь у міжнародних освітніх, наукових проектах і програмах.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Тим, хто цікавиться історією науки і техніки, добре відомий Державний політехнічний музей при КПІ ім. Ігоря Сікорського – один з найбільших українських музеїв техніки та технології і найбільший університетський музей України. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;На згадку про визначних попередників на території університетського кампусу встановлено &lt;a href="/monument"&gt;пам'ятники&lt;/a&gt; видатним його випускникам і вченим, життя і діяльність яких були пов'язані з КПІ.&lt;/p&gt;</fragment>
     <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/medium/public/vnvr.png?itok=v4Z6XPMj</fragment>
-    <fragment type="image">https://kpi.ua/images/te.png</fragment>
-    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
-  </page>
-  <page url="https://kpi.ua/students/sec">
-    <fragment type="text">Кар'єра</fragment>
-    <fragment type="text">&lt;p&gt;Центр розвитку кар'єри КПІ ім. Ігоря Сікорського був створений в 2003 році, є структурним підрозділом університету і входить до складу Департаменту навчально-виховної роботи. Діяльність Центру направлена на розвиток ділових та партнерських зв'язків між КПІ ім. Ігоря Сікорського та компаніями-працедавцями, здійснення комплексної підтримки в побудові кар'єри здобувачами вищої освіти та випускниками.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Наша місія – підвищити конкурентоздатність здобувачів вищої освіти та випускників КПІ ім. Ігоря Сікорського на ринку праці, сприяння їх успішному професійному старту та самореалізації.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;На інформаційних ресурсах Центру розвитку кар'єри завжди останні новини та гарячі пропозиції (проєкти, вебінари, майстер-класи, хакатони, екскурсії на підприємства тощо), подробиці організації та проведення &lt;a href="https://rabota.kpi.ua/about-fairs"&gt;Ярмарку вакансій&lt;/a&gt;, а також актуальні вакансії від провідних компаній України та світу.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;З базою Договорів про партнерство та співробітництво з компаніями-партнерами ви можете ознайомитися на сайті Департаменту навчально-виховної роботи.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Навігація по Центру &lt;a href="https://telegra.ph/helpik-06-30#%D0%A6%D0%B5%D0%BD%D1%82%D1%80-%D1%80%D0%BE%D0%B7%D0%B2%D0%B8%D1%82%D0%BA%D1%83-%D0%BA%D0%B0%D1%80'%D1%94%D1%80%D0%B8-(%D1%81%D0%B0%D0%B9%D1%82,-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB,-%D0%B1%D0%BE%D1%82)" alt="телеграм" target="_blank"&gt;&lt;img src="/images/te.png"&gt;&lt;/a&gt;&lt;/p&gt;</fragment>
-    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/medium/public/robota.png?itok=bOmyihQR</fragment>
-    <fragment type="image">https://kpi.ua/images/fb.png</fragment>
-    <fragment type="image">https://kpi.ua/images/te.png</fragment>
-    <fragment type="image">https://kpi.ua/images/te.png</fragment>
-    <fragment type="image">https://kpi.ua/images/in.png</fragment>
-    <fragment type="image">https://kpi.ua/images/te.png</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/images-page/zgurovskyi.jpg?itok=gchnMnO0</fragment>
     <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
@@ -175,13 +209,43 @@
     <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
   </page>
-  <page url="https://kpi.ua/educate_department">
-    <fragment type="text">Департамент навчально-виховної роботи</fragment>
-    <fragment type="text">&lt;p&gt;У підпорядкуванні проректора з навчально-виховної роботи знаходяться Департамент навчально-виховної роботи (ДНВР), &lt;a href="/artcenter"&gt;Центр культури та мистецтв&lt;/a&gt;, &lt;a href="/studmisto"&gt;Студмістечко КПІ ім. Ігоря Сікорського&lt;/a&gt; та Військово-мобілізаційний відділ.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Діяльність ДНВР базується на реалізації принципів відповідальності, демократичності, об’єктивності та спрямована на:&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Департамент навчально-виховної роботи складається з наступних структурних одиниць: &lt;/p&gt;</fragment>
+  <page url="https://kpi.ua/students/sec">
+    <fragment type="text">Кар'єра</fragment>
+    <fragment type="text">&lt;p&gt;Центр розвитку кар'єри КПІ ім. Ігоря Сікорського був створений в 2003 році, є структурним підрозділом університету і входить до складу Департаменту навчально-виховної роботи. Діяльність Центру направлена на розвиток ділових та партнерських зв'язків між КПІ ім. Ігоря Сікорського та компаніями-працедавцями, здійснення комплексної підтримки в побудові кар'єри здобувачами вищої освіти та випускниками.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Наша місія – підвищити конкурентоздатність здобувачів вищої освіти та випускників КПІ ім. Ігоря Сікорського на ринку праці, сприяння їх успішному професійному старту та самореалізації.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;На інформаційних ресурсах Центру розвитку кар'єри завжди останні новини та гарячі пропозиції (проєкти, вебінари, майстер-класи, хакатони, екскурсії на підприємства тощо), подробиці організації та проведення &lt;a href="https://rabota.kpi.ua/about-fairs"&gt;Ярмарку вакансій&lt;/a&gt;, а також актуальні вакансії від провідних компаній України та світу.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;З базою Договорів про партнерство та співробітництво з компаніями-партнерами ви можете ознайомитися на сайті Департаменту навчально-виховної роботи.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Навігація по Центру &lt;a href="https://telegra.ph/helpik-06-30#%D0%A6%D0%B5%D0%BD%D1%82%D1%80-%D1%80%D0%BE%D0%B7%D0%B2%D0%B8%D1%82%D0%BA%D1%83-%D0%BA%D0%B0%D1%80'%D1%94%D1%80%D0%B8-(%D1%81%D0%B0%D0%B9%D1%82,-%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB,-%D0%B1%D0%BE%D1%82)" alt="телеграм" target="_blank"&gt;&lt;img src="/images/te.png"&gt;&lt;/a&gt;&lt;/p&gt;</fragment>
     <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/medium/public/seminska.jpg?itok=TiDErpgf</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/robota.png?itok=bOmyihQR</fragment>
+    <fragment type="image">https://kpi.ua/images/fb.png</fragment>
+    <fragment type="image">https://kpi.ua/images/te.png</fragment>
+    <fragment type="image">https://kpi.ua/images/te.png</fragment>
+    <fragment type="image">https://kpi.ua/images/in.png</fragment>
+    <fragment type="image">https://kpi.ua/images/te.png</fragment>
+    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
+    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
+  </page>
+  <page url="https://kpi.ua/vors">
+    <fragment type="text">Гуртки. Олімпіади. Проєкти (позанавчальний процес)</fragment>
+    <fragment type="text">&lt;p&gt;Розвиток студента як особистості та набуття лідерських якостей, робота зі студентськими організаціями, гуртками, над студентськими проєктами та проведення всеукраїнських олімпіад і конференцій – основна діяльність відділу організаційної роботи зі студентами.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Для всебічного розвитку студентів у позанавчальний час у КПІ ім. Ігоря Сікорського діють більше 100 студентських гуртків наукового, інженерного та соціогуманітарного спрямування.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Метою гуртків є надання студентам можливості здобути нові знання, навички та цікаво провести вільний час. Гуртки – це факультативи, де студенти займаються тим, що їм подобається. Окремий бонус – студент може долучитися до роботи гуртка, діяльність якого відмінна від його основного процесу навчання. Тобто, навчаючись на факультеті електроніки, студент може взяти участь у гуртках соціогуманітарного напрямку або навпаки – студент-лінгвіст може вивчати ракето-космічну інженерію.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Більш детально ознайомитися з кожним гуртком можливо у наших гайдах за посиланнями:&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Також в КПІ ім. Ігоря Сікорського проходять І етапи Всеукраїнських студентських олімпіад &lt;a href="https://telegra.ph/stud-olimp-12-14" target="_blank"&gt;&lt;img src="/images/te.png%20"&gt;&lt;/a&gt;, переможці яких беруть участь вІІ етапах Всеукраїнських студентських олімпіад &lt;a href="https://telegra.ph/OL%D0%86MP%D0%86ADI-2-tur-shcho-provodyatsya-v-KP%D0%86-08-04" target="_blank"&gt;&lt;img src="/images/te.png%20"&gt;&lt;/a&gt;&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Крім олімпіад є ряд традиційних проєктів та заходів, які проводять для студентів та за їх активної участі, зокрема KPI-OPEN та &lt;a href="/freshman-day"&gt;День першокурсника&lt;/a&gt;.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Керівник відділу організаційної роботи зі студентами - Віталій СОЛОНУХА&lt;/p&gt;</fragment>
+    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/vors.png?itok=Zx98ggmo</fragment>
+    <fragment type="image">https://kpi.ua/images/te.png </fragment>
+    <fragment type="image">https://kpi.ua/images/te.png </fragment>
+    <fragment type="image">https://kpi.ua/images/te.png </fragment>
+    <fragment type="image">https://kpi.ua/images/te.png </fragment>
+    <fragment type="image">https://kpi.ua/images/te.png </fragment>
     <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
@@ -211,21 +275,15 @@
     <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
   </page>
-  <page url="https://kpi.ua/vors">
-    <fragment type="text">Гуртки. Олімпіади. Проєкти (позанавчальний процес)</fragment>
-    <fragment type="text">&lt;p&gt;Розвиток студента як особистості та набуття лідерських якостей, робота зі студентськими організаціями, гуртками, над студентськими проєктами та проведення всеукраїнських олімпіад і конференцій – основна діяльність відділу організаційної роботи зі студентами.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Для всебічного розвитку студентів у позанавчальний час у КПІ ім. Ігоря Сікорського діють більше 100 студентських гуртків наукового, інженерного та соціогуманітарного спрямування.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Метою гуртків є надання студентам можливості здобути нові знання, навички та цікаво провести вільний час. Гуртки – це факультативи, де студенти займаються тим, що їм подобається. Окремий бонус – студент може долучитися до роботи гуртка, діяльність якого відмінна від його основного процесу навчання. Тобто, навчаючись на факультеті електроніки, студент може взяти участь у гуртках соціогуманітарного напрямку або навпаки – студент-лінгвіст може вивчати ракето-космічну інженерію.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Більш детально ознайомитися з кожним гуртком можливо у наших гайдах за посиланнями:&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Також в КПІ ім. Ігоря Сікорського проходять І етапи Всеукраїнських студентських олімпіад &lt;a href="https://telegra.ph/stud-olimp-12-14" target="_blank"&gt;&lt;img src="/images/te.png%20"&gt;&lt;/a&gt;, переможці яких беруть участь вІІ етапах Всеукраїнських студентських олімпіад &lt;a href="https://telegra.ph/OL%D0%86MP%D0%86ADI-2-tur-shcho-provodyatsya-v-KP%D0%86-08-04" target="_blank"&gt;&lt;img src="/images/te.png%20"&gt;&lt;/a&gt;&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Крім олімпіад є ряд традиційних проєктів та заходів, які проводять для студентів та за їх активної участі, зокрема KPI-OPEN та &lt;a href="/freshman-day"&gt;День першокурсника&lt;/a&gt;.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Керівник відділу організаційної роботи зі студентами - Віталій СОЛОНУХА&lt;/p&gt;</fragment>
+  <page url="https://kpi.ua/web_sss">
+    <fragment type="text">Соціально-психологічна підтримка</fragment>
+    <fragment type="text">&lt;p&gt;Місія відділу соціально-психологічної роботи – Студентської соціальної служби – це допомога студентському загалу в розвитку та підтримці власного потенціалу (розкриттю якого, власне, надто сприяє волонтерська діяльність). Метою діяльності Студентської соціальної служби є соціальний розвиток студентства, психологічна допомога, сприяння активній соціальній позиції молоді. Роботу ВСПР – ССС спрямовано  на організацію та проведення соціально-профілактичних, психологічних,  благодійних, соціальних, спортивно-оздоровчих та культурно-просвітницьких  заходів та реалізацію соціальних проєктів, націлених на формування здорового  способу життя та психологічної рівноваги і здоров’я в студентської молоді,  залучення студентства до соціального служіння на засадах волонтерської роботи  та розвитку в молоді soft skills (надпрофесійних навичок).&lt;/p&gt;</fragment>
     <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/medium/public/vors.png?itok=Zx98ggmo</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/images-page/sss_0.png?itok=x97iGC95</fragment>
     <fragment type="image">https://kpi.ua/images/te.png </fragment>
-    <fragment type="image">https://kpi.ua/images/te.png </fragment>
-    <fragment type="image">https://kpi.ua/images/te.png </fragment>
-    <fragment type="image">https://kpi.ua/images/te.png </fragment>
+    <fragment type="image">https://kpi.ua/images/fb.png </fragment>
+    <fragment type="image">https://kpi.ua/images/ig.png </fragment>
+    <fragment type="image">https://kpi.ua/images/youtube.png </fragment>
     <fragment type="image">https://kpi.ua/images/te.png </fragment>
     <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
@@ -259,23 +317,39 @@
     <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
   </page>
-  <page url="https://kpi.ua/science_department">
-    <fragment type="text">&lt;p&gt;Що потрібно для того, щоб увійти в історію? Опинитися в потрібному місці в потрібний час.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;У лютому відбудуться безкоштовні вебінари англійською мовою від компанії Elsevier, що відбудуться на платформі BrightTalk.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt; Відкритість кордонів, наукова  мобільність наших викладачів і студентів підносить імідж Київської політехніки  у світі, дозволяє їм провадити найсучасніші, у т.ч.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;&lt;strong&gt;&lt;em&gt;Ювілейний Х  Міжнародний фестиваль інноваційних проєктів "Sikorsky Challenge  2021" відбудеться з 17 по 20 серпня 2021 року в КПІ ім. Ігоря Сікорського.&lt;/em&gt;&lt;/strong&gt; &lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;&lt;strong&gt;"Переваги використання  постійних ідентифікаторів для українських науковців та організацій"&lt;/strong&gt;&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Запрошуємо Вас взяти участь у  ХV Міжнародній науково-технічній конференції "Перспективи телекомунікацій 2021" яка відбудеться 12-16 квітня 2021 року. Доповіді на конференцію приймаються по наступним напрямкам:  &lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Серія конференцій IEEE BlackSeaCom проводиться в країнах, що оточують Чорне море. Мета BlackSeaCom - об’єднати на берегах Чорного моря  академічні кола, дослідницькі лабораторії та промисловість з усього світу.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Важливою складовою освітньої та дослідницької діяльності є пошук, відбір та оцінювання інформації.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Лауреатами Премії Президента України для молодих вчених 2020 року за цикл робіт "Розробка аналітичних біотехнологій для потреб імунологічної діагностики" стали завідувач кафедри трансляційної медичної біоінженерії д.б.н., проф. Олександр Галкін та старший викладач цієї ж кафедри к.т.н. Тетяна Луценко. &lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Рішенням Комітету з державних премій України Премію Президента України для молодих вчених у 2020 р.&lt;/p&gt;</fragment>
+  <page url="https://kpi.ua/almamater">
+    <fragment type="text">Історія КПІ ім.Ігоря Сікорського</fragment>
+    <fragment type="text">&lt;p&gt;Ідея створення технічного навчального закладу виникла у цукрозаводчиків південно-західного краю. 18 лютого 1880 року при активній підтримці голови київського біржового комітету Н. Хрякова було вирішено відкрити підписку для збору пожертвувань. Накопичені гроші, гарантовані внески меценатів міста та підтримка зі сторони міністра юстиції І.Вітте дозволили 25 листопада 1896 року на приватній нараді в будинку Л.І. Бродського прийняти рішення про заснування в Києві Політехнічного інституту.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Під головуванням С.М. Сольського (київський міський голова) і за участі за участі представників міської влади, адміністрації Південо-західної залізниці, інженерів та промисловців було затверджено Протокол, “...що складає власне перший фактичний документ в історії вищого технічного учбового закладу в м. Києві”. У цьому документі зазначалось, що &lt;i&gt;“... найбільш прийнятим типом нового навчального закладу визначити тип Політехнічного інституту, що складається з кількох відділів різних спеціальностей, за прикладом політехнікумів у Цюриху, Карлсруе, Мюнхені, Відні, Ганновері, Аахені, Дрездені, Ризі тощо”&lt;/i&gt; [&lt;a href="/history-founders"&gt;Меценати i засновники КПI: справи i час&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;&lt;img src="/images/k-1-h2.gif" alt="Головна будiвля - листiвка початку минулого столiття" width="250" height="145" hspace="4" align="right"&gt;Для розв'язання організаційних питань розпорядженням директора департаменту мануфактур і торгівлі Міністерства Фінансів створено спеціальний комітет, який очолив генерал-губернатор Південно-Західного краю граф О.П. Ігнатьєв.  На заснування інституту було зібрано добровільні пожертви загальною сумою 1 000 374 крб. 53 коп. при вартості будівництва і обладнання інституту 2 650 000 карбованців. Серед організацій та людей, які внесли кошти, були: Київська міська Дума - 300 000 крб., Терещенко з синами - 150 000 крб., Л. Бродський - 100 000 крб.; Київський земельний банк - 15 000 крб., Товариство Красилівського цукрового заводу - 2 000 крб.,  загалом 139 товариств, банків, заводів, установ, окремих громадян [&lt;a href="/history-donate"&gt;Шедевр на Шулявці — дар меценатів Києву&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;У конкурсі на проекти споруд Політехнічного інституту взяли участь відомі архітектори: Бенуа, Гоген, Кітнер, Кобелєв, Померанцев, Цендер та Шретер. Кращим був визнаний проект проф. І.С. Кітнера, за яким і споруджено корпуси Київського політехнічного інституту. Оскільки він жив у Санкт-Петербурзі і не мав змоги безпосередньо керувати ходом робіт, роботи очолив архітектор О.В. Кобелєв. Для будівництва інституту міська влада виділила декілька ділянок. Після ретельного ознайомлення була вибрана ділянка вздовж Брест-Литовського шосе площею 38 десятин. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;31 серпня 1898 року відбулися урочистості з нагоди відкриття Київського політехнічного інституту, де директор Департаменту торгівлі та мануфактури оголосив Височайше повеління з цього приводу. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Було визначено чотири відділення: &lt;strong&gt;механічне&lt;/strong&gt; (109 студентів), &lt;strong&gt;інженерне&lt;/strong&gt; (101 студент), &lt;strong&gt;сільськогосподарське&lt;/strong&gt; (87 студентів), &lt;strong&gt;хімічне&lt;/strong&gt; (63 студенти). Ще в червні 1898 р. було оголошено перший прийом заяв до інституту. Відповідно до Статуту, до вступних іспитів допускалися всі бажаючі, які мали атестат про закінчення гімназії, реального училища або інших середніх навчальних закладів, що прирівнювалися до гімназії. Поза конкурсом зараховувалися абітурієнти, які вже закінчили інші вузи. На 330 місць було подано 1100 заяв. Конкурсні випробування з математики, фізики і російської мови успішно витримали значно більше абітурієнтів, ніж передбачалося студентських місць. За клопотанням ради інституту Міністерство фінансів дозволило прийняти 30 чоловік понад норму.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Заняття в інституті розпочалися 1 вересня 1898 р. у приміщенні, збудованому для комерційного училища (вул. Воровського, 24), яке на рік взяв в оренду інститут. Після завершення будівництва (квітень 1902 р.) інститут мав у розпорядженні повний комплекс будівель: головний корпус - інженерне, механічне та агрономічне відділення, канцелярія, фундаментальна науковотехнічна бібліотека; хімічний корпус - хімічне відділення; механічні майстерні з центральною електростанцією для освітлення всіх будівель і опалення головного корпусу; будівлі дослідного поля, двір для худоби, сільськогосподарьску ферма та сад; житло для професорів і лаборантів - 2 будівлі; студентська їдальня. [&lt;a href="/history-start"&gt;Початок занять в інституті: матеріальна база та організаційна структура&lt;/a&gt;]&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Першим директором КПІ був призначений &lt;a href="/kyrpychov"&gt;В.Л. Кирпичов&lt;/a&gt;, як фахівець в області організації і створення вищих навчальних закладів. Науково-методичну допомогу під час організації та становлення інституту надали корифеї науки Д.І. Менделєєв, М.Є. Жуковський, К.А. Тимірязєв та інші. Педагогічний колектив КПІ вперше в країні започаткував конкурсний порядок призначення професорів кафедр виключно з осіб, які мають учений ступінь. Це був найдоцільніший метод комплектування кафедр висококваліфікованими фахівцями. Для роботи в інституті було запрошено багатьох відомих вчених Києва, Москви, Петербурга, Казані, Харкова. Серед них визначні фахівці у галузі теоретичної механіки &lt;a href="/kotelnikov"&gt;О.П. Котельников&lt;/a&gt; і &lt;a href="/dynnyk"&gt;О.М. Динник&lt;/a&gt;, математики &lt;a href="/ermakov"&gt;В.П. Єрмаков&lt;/a&gt; і &lt;a href="/bukreev"&gt;Б.Я. Букреєв&lt;/a&gt;, один з основоположників теорії різання металів &lt;a href="/zvorykin"&gt;К.О. Зворикін&lt;/a&gt;, геолог-мінералог &lt;a href="/nechayev"&gt;О.В. Нечаєв&lt;/a&gt;, відомий вчений, металург &lt;a href="/izhevsky"&gt;В.П. Іжевський&lt;/a&gt;, теплотехнік &lt;a href="/radtsig"&gt;О.О. Радціг&lt;/a&gt;, видатний фахівець мостобудування &lt;a href="/paton_evgen"&gt;Є.О. Патон&lt;/a&gt;, обдаровані хіміки &lt;a href="/konovalov"&gt;М.І. Коновалов&lt;/a&gt; і &lt;a href="/pysarzhevskiy"&gt;Л.В. Писаржевський&lt;/a&gt;, академік архітектури &lt;a href="/kobelev"&gt;О.В. Кобелєв&lt;/a&gt;, художник &lt;a href="/pymonenko"&gt;М.К. Пимоненко&lt;/a&gt; [&lt;a href="/history-team-1898"&gt;Перший педагогічний колектив КПІ&lt;/a&gt;]. Пізніше на викладацьку роботу в інститут були запрошені всесвітньовідомі вчені механіки &lt;a href="/tymoshenko"&gt;С.П. Тимошенко&lt;/a&gt;, &lt;a href="/syminsky"&gt;К.К. Симінський&lt;/a&gt;, &lt;a href="/serensen"&gt;С.В. Серенсен&lt;/a&gt; та ін. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Термін навчання в інституті складав чотири роки (вісім семестрів). Система навчання курсова. Передбачалося, що скорочення часу навчання на один рік не зашкодить якості курсу, а досягатиметься шляхом підвищення інтенсивності викладання, скорочення канікул і екзаменаційного періоду. При цьому промисловість швидше матиме фахівців, а молоді люди на рік раніше вступатимуть у самостійне життя [&lt;a href="/history-education_1898-1917"&gt;Організація навчання в КПІ: 1898-1917&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Першим головою Державної екзаменаційної комісії КПІ у 1903 році був Д.І. Менделєєв. Диплом отримало всього 93 випускника -  навчатись було дуже важко, обов'язково необхідно було вносити оплату за навчання, розгортались революційні події. Першим випускникам КПІ  разом із дипломами вручали &lt;a href="/806-12"&gt;нагрудний Знак випускника&lt;/a&gt;. [&lt;a href="/history-students_1898-1917"&gt;Студенство КПІ у дореволюційні часи&lt;/a&gt;]&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Вже з 1899 року розпочався рух за створення п’ятого, повітроплавного відділення КПІ, що його очолив один із найбільших ентузіастів авіації професор &lt;a href="/artemyev"&gt;Микола Артем’єв&lt;/a&gt;, талановитий учень Миколи Жуковського. З його ініціативи в 1905–1906 роках при механічному гуртку КПІ було організовано повітроплавну секцію. Першим почесним головою секції став професор &lt;a href="/tymoshenko"&gt;Степан Тимошенко&lt;/a&gt;, а її віце-головою – студент механічного відділення &lt;a href="/bobrov"&gt;Вікторин Бобров&lt;/a&gt;. У листопаді 1908 року секція реорганізувалася в повітроплавний гурток із відділами аеропланів, гелікоптерів, орнітоптерів і двигунів. Пристрасним пропагандистом ідей авіації та планеризму був професор КПІ &lt;a href="/delone"&gt;Микола Делоне&lt;/a&gt; (син піонера авіації Бориса Делоне), який став одним із організаторів Київського повітроплавного товариства (КПТ). Саме КПТ було першим авіаційним осередком, у роботі якого брали участь професори, інженери, конструктори, а також студенти КПІ, котрі виступали з доповідями з питань авіації, будували і випробовували моделі літальних апаратів, планери [&lt;a href="/history-aviation"&gt;Витоки української авіації&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Невід'ємною сторінкою історії КПІ є його участь у загальнодемократичному русі країни, що здійснювався під гаслом демократизації вищої школи, свободи студентських об'єднань. Уже навесні 1899 р., тобто у перший рік існування вузу, його вихованці взяли участь у всеросійському студентському страйку, спрямованому проти реакційної Політики властей. Уряд відповів на це виключенням з інституту, арештом і засланням 32 студентів — організаторів та активних учасників страйку. Проте студентські заворушення не припинялись... [&lt;a href="/history-shulyavska_republic%20"&gt;Шулявська республіка та студентські рухи початку 20 сторіччя&lt;/a&gt;]&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Влітку 1918 року було створено п'ятий - електротехнічний факультет. Заняття в інституті припинялися і знову відновлювались зважаючи на перебіг військових дій в Києві. Соціальні трансформації в країні відображалися і в докорінній зміні принципів управління ВУЗом [&lt;a href="/history-kpi-1917-1921"&gt;1917 - 1921: КПІ в період громадянської війни&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Для реконструкції народного господарства України після революцій і громадянської війни  необхідно було створити і відновити ряд галузей промисловості: машинобудівну, верстатобудівну, автомобільну, хімічну, оборонну, тракторну, металургійну та ін., реконструювати старі і збудувати нові підприємства, технічно переозброїти їх. Для виконання цих народногосподарських планів треба було за короткий час виховати технічну інтелігенцію. Це важливе завдання покладалося на вузи країни. [&lt;a href="/history-kpi-industrialization"&gt;Внесок КПІ в індустріалізацію народного господарства СРСР&lt;/a&gt;]&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;У березні 1926 року відбувся перший Всесоюзний з'їзд делегатів організації воєнно-наукового товариства СРСР, у роботі якого приймав участь ректор Київського політехнічного інституту Бобров. На цьому з'їзді було поставлено завдання про воєнізацію навчальних закладів: в КПІ створюється воєнно-науковий гурток та організаційний комітет, головою якого став ректор Бобров. [&lt;a href="/kpi_fvp-history"&gt;Історія військової підготовки в КПІ&lt;/a&gt;]&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;У червневі дні 1941 р. Київський індустріальний інститут завершував 43-й навчальний рік. В інституті навчалися 3000 студентів, працювали понад 300 професорів-викладачів, загальна чисельність інститутського колективу складала 5000 чоловік. Як і в інших вузах, випускники захищали дипломні проекти і одержували призначення на роботу, старшокурсники мали виробничу практику в різних містах країни, студенти молодших курсів складали перевідні іспити. Війна об'єднала усіх в єдиній справі — захисті Батьківщини [&lt;a href="/history-w2"&gt;Друга світова війна&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;З перших днів війни багато викладачів і співробітників, випускників і студентів інституту добровільно і через мобілізацію поповнили Червону Армію. Вони брали участь в  бойових діях на всіх фронтах. Вихованці інституту, які залишилися на окупованих територіях, брали участь у підпільній і партизанській боротьбі. [&lt;a href="/history-vet"&gt;Фронтовики викладачі, співробітники, випускники і студенти КПІ&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Наприкінці червня 1941 р. інститут одержав розпорядження про підготовку до евакуації в Ташкент, де він функціонував у складі Середньоазіатського індустріального інституту [&lt;a href="/history-tashkent"&gt;КПІ в евакуації: підготовка інженерів та дослідна робота для народного господарства і оборони країни&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Визволення Києва у листопаді 1943 р. дало можливість відновити роботу інституту: почалася реєстрація викладачів, співробітників, студентів, які поверталися до інституту. Вже у другій половині січня 1944 р. почала працювати приймальна комісія для набору студентів на перший курс і поновлення студентів старших курсів. Усі зусилля колективу інституту було спрямовано на відновлення навчально-матеріальної бази, адже унаслідок фашистської окупації та жорстоких боїв за Київ було зруйновано більше половини загальної площі навчальних приміщень, згоріли гуртожитки, пограбовано майно. Завдяки включенню інституту списку найважливіших промислових і транспортних вузів країни, студенти всіх курсів звільнялися від призову до Радянської Армії, їм надавалась підвищена стипендія (передусім це стосувалось студентів, які оволодівали спеціальностями з ливарного, ковальського, пресового та хімічного виробництва). Оскільки терміни відбудовчих робіт будівельниками порушувалися, то влітку 1945 р. студенти і викладачі добровільно упродовж місяця канікулярної відпустки виконували невідкладні будівельні роботи. [&lt;a href="/history-reevacuation"&gt;Реевакуація і відбудова інституту&lt;/a&gt;]&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Велике значення для підвищення якості підготовки фахівців мали науково-дослідна робота і залучення до неї студентів, особливо старших курсів. Основною формою їх участі у дослідницькій роботі в повоєнні роки були наукові гуртки, на базі яких у квітні 1946 р. в інституті утворилося студентське науково-технічне товариство. У момент створення воно мало дев'ять секцій, що об'єднали 30 гуртків за спеціальностями і близько 500 студентів. Керували секціями провідні вчені інституту [&lt;a href="/history-training_1941-1960"&gt;Підготовка фахівців та науково-педагогічних кадрів в повоєнні роки&lt;/a&gt;].&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;За всю історію існування наш вуз очолювало 23 ректори. [&lt;a href="/rectors"&gt;Ректори Київської політехніки&lt;/a&gt;]&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;За довгий період існування назва інституту змінювалась декілька разів  [&lt;a href="/name"&gt;Як змінювалась назва нашого університету&lt;/a&gt;]:&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Активно розвиваючись, Київський політехнічний інститут став базою розширення та зміцнення мережі вузів Києва, України. Так, у 1923-1933 роках і протягом останніх років на базі факультетів та окремих спеціальностей КПІ було створено декілька інститутів, університетів, академій [&lt;a href="/history-base"&gt;Науково-навчальні заклади України, створені на базі підрозділів КПІ&lt;/a&gt;]. Внаслідок реорганізації системи підрозділів Міносвіти УРСР на базі Київського вечірнього факультету Українського поліграфічного інституту ім. І. Федорова в 1989 році в структуру КПІ ввійшов поліграфічний факультет, який з 6 вересня 2004 року перейменовано на &lt;a href="/vpi"&gt;Видавничо-поліграфічний інститут&lt;/a&gt;. Його було засновано 1 січня 1954 році у Києві на базі художньо-ремісничого училища поліграфістів № 18, як навчально-консультативний пункт (УКП) Московського поліграфічного інституту. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Сьогодні Київський політехнічний інститут - найбільший вищий навчальний заклад України. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Враховуючи велику організаторську роль Київського політехнічного інституту в підготовці інженерних і наукових кадрів, &lt;a href="/1995_289"&gt;Указом Президента України за №289/95 від 8 квітня 1995 року “Про Київський політехнічний інститут” йому надано статус Національного технічного університету України&lt;/a&gt;.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;У квітні 2007 р. на Колегії МОН України було ухвалено рішення про надання КПІ статусу дослідницького університету, &lt;a href="/regulation"&gt;Статут якого затверджено Постановою Кабінету Міністрів України від 21.11.2007 р. № 1332&lt;/a&gt;. Постановою Кабінету Міністрів України від 03.02.2010 р. № 76 НТУУ “КПІ”  надано статус самоврядного (автономного) дослідницького національного університету. &lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;&lt;a href="/sikorsky-name"&gt;Наказом Міністра освіти і науки України Лілії Гриневич від 17 серпня 2016 року №992&lt;/a&gt; "Про присвоєння імені Національному технічному університету України "Київський політехнічний інститут" університету присвоєно ім'я його колишнього студента, видатного авіаконструктора ХХ століття І.І.Сікорського. &lt;/p&gt;</fragment>
     <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/images-story/alekseyik.jpg?itok=V5S6J9NH</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/images-story/nagirniak.jpg?itok=HdjUyScs</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/images-story/BlackSeaCom.jpg?itok=EA8emkjx</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/images-story/2021-kp4-ntb.jpg?itok=Sqs3L_w5</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/thumbnail/public/images-story/bilous-inna.jpg?itok=H9AGxe5_</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/h-02.original_0.jpg?itok=RZ89WAxB</fragment>
+    <fragment type="image">https://kpi.ua/images/k-1-h2.gif</fragment>
+    <fragment type="image">https://kpi.ua/images/k-1-h3.gif</fragment>
     <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
@@ -283,53 +357,17 @@
     <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
   </page>
-  <page url="https://kpi.ua/department">
-    <fragment type="text">Наукові підрозділи</fragment>
-    <fragment type="text">&lt;p&gt;До складу наукових структурних підрозділів входять наукові частини кафедр, факультетів, навчально-наукових інститутів (ННІ), науково-дослідні інститути (НДІ), науково-дослідні центри (НДЦ), науково-інженерні центри (НІЦ), конструкторські бюро (КБ) та інші наукові структури. &lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;
-Наукові структурні підрозділи діють за дорученням ректора університету та на основі положень, які затверджує ректор.&lt;/p&gt;</fragment>
+  <page url="https://kpi.ua/vnvr">
+    <fragment type="text">Навчання</fragment>
+    <fragment type="text">&lt;p&gt;Навчання є однією з найважливіших  складових студентського життя та закладає підгрунтя для побудови успішної  кар'єри, формування у студентів розуміння свого місця в житті і можливостей для  професійного та особистісного розвитку.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Основні засади організації навчання,  проведення контрольних заходів, процедурні питання щодо формування  індивідуальної освітньої траєкторії, переведення студентів до інших закладів  вищої освіти або до КПІ ім. Ігоря Сікорського, відрахування, поновлення,  надання академічних відпусток висвітлені в Законах України &lt;a href="https://zakon.rada.gov.ua/laws/show/1556-18#Text" target="_blank"&gt;«Про вищу освіту»&lt;/a&gt; та &lt;a href="https://zakon.rada.gov.ua/laws/show/2145-19#Text" target="_blank"&gt;«Про освіту»&lt;/a&gt;, нормативних актах Міністерства  освіти та науки України, &lt;a href="https://osvita.kpi.ua/docs"&gt;нормативних актах та положеннях КПІ ім. Ігоря Сікорського&lt;/a&gt;.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Розібратися в нормативній базі,  підказати, допомогти, порадити і відповісти на питання студентів щодо  навчального процесу – саме така задача &lt;a href="https://dnvr.kpi.ua/about/#abit_nav"&gt;відділу навчально-виховної роботи&lt;/a&gt; Департаменту навчально-виховної  роботи (далі – ДНВР).&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Після успішного вступу до  університету студент потрапляє у навчальний вир і чує безліч нових понять –  рейтингова система оцінювання, поточний контроль, календарний контроль,  семестровий контроль, Електронний кампус, відрахування, поновлення, тощо.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Для зручності пошуку пояснень  основних моментів організації навчання та освітнього процесу в цілому і  відповідей на найактуальніші питання студентів ДНВР створив ряд статей &lt;a href="https://telegra.ph/VNVR-07-08" target="_blank"&gt;&lt;img src="/images/te.png"&gt;&lt;/a&gt;, які в простій формі пояснюють серйозні речі.&lt;/p&gt;</fragment>
+    <fragment type="text">&lt;p&gt;Керівник відділу навчально-виховної роботи – Тетяна ХИЖНЯК&lt;/p&gt;</fragment>
     <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
-  </page>
-  <page url="https://kpi.ua/rmv">
-    <fragment type="text">Рада молодих вчених</fragment>
-    <fragment type="text">&lt;p&gt; Рада молодих вчених, створена наказом ректора Університету від 26 вересня 2014 р., є колегіальним об’єднанням молодих вчених Університету, яке створено з метою сприяння науковій, інноваційній, винахідницькій та іншій творчій діяльності молодих вчених, представництва, захисту і реалізації професійних, інтелектуальних, юридичних і соціально-економічних прав молодих вчених; сприяння міжвузівській інтеграції молодих вчених.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Діяльність Ради  здійснюється відповідно до Конституції України, Законів України «Про вищу освіту», «Про наукову та науково-технічну діяльність», інших нормативних актів України, Статуту Національного технічного університету України «Київський політехнічний інститут імені Ігоря Сікорського» і Положення про РМВ КПІ ім. Ігоря Сікорського.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Рада молодих вчених КПІ ім. Ігоря Сікорського координує свою роботу з проректором з наукової роботи і його заступником.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;Основні завдання Ради:&lt;/p&gt;</fragment>
-    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/medium/public/rmv.jpg?itok=3ldN36F7</fragment>
-    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
-  </page>
-  <page url="https://kpi.ua/ecoino">
-    <fragment type="text">Інноваційна екосистема Sikorsky Challenge</fragment>
-    <fragment type="text">&lt;p&gt;Інноваційна екосистема Sikorsky Challenge  Національного технічного університету України "Київський політехнічний інститут імені Ігоря Сікорського" (INESC) покликана здійснювати відбір, залучення та навчання креативних людей для створення власного бізнесу та старпаів. INESC допомагає учасникам у пошуку інвесторів та просуванні стартапів.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;&lt;a href="/files/ecoino.jpg" rel="lightbox"&gt;Структурна схема навчання та інкубації в Інноваційій екосистемі&lt;/a&gt;&lt;/p&gt;</fragment>
-    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/medium/public/ecoino.jpg?itok=QlrOZ-Yh</fragment>
-    <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/mon.jpg</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/isc_0.png</fragment>
-    <fragment type="image">https://kpi.ua/files/images-page/prozorro.png</fragment>
-  </page>
-  <page url="https://kpi.ua/seminar">
-    <fragment type="text">[протягом року] План проведення наукових та науково-технічних заходів на 2021 рік</fragment>
-    <fragment type="text">&lt;p&gt;Науковці університету організують та проводять ряд наукових і науково-практичних конференцій і семінарів. Наукові заходи – важлива складова комплексного, системного підходу до креативної форми навчання та інтенсивного наукового пошуку.&lt;/p&gt;</fragment>
-    <fragment type="text">&lt;p&gt;&lt;a href="https://kpi.ua/files/2021-seminar.pdf"&gt;https://kpi.ua/files/2021-seminar.pdf&lt;/a&gt;&lt;/p&gt;</fragment>
-    <fragment type="image">https://kpi.ua/files/logo.png</fragment>
-    <fragment type="image">https://kpi.ua/files/styles/story/public/images-story/seminar.jpg?itok=TBpTUd7z</fragment>
+    <fragment type="image">https://kpi.ua/files/styles/medium/public/vnvr.png?itok=v4Z6XPMj</fragment>
+    <fragment type="image">https://kpi.ua/images/te.png</fragment>
     <fragment type="image">https://kpi.ua/images/sikorsky-distance.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/solor_0.jpg</fragment>
     <fragment type="image">https://kpi.ua/files/images-page/vnz.jpg</fragment>
